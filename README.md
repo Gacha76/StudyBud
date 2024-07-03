@@ -32,13 +32,13 @@ python -m venv your_env_name
 
 (i) On Windows :
 ```bash
-.\your_env_name\scripts\Activate.ps1
+.\your_env_name\Scripts\Activate.ps1
 
 ```
 
 (ii) On Linux :
 ```bash
-source .\your_env_name\scripts\activate
+source .\your_env_name\bin\activate
 
 ```
 
